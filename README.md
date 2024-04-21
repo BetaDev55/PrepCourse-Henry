@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba modulo 2, PrepCourse Henry
+# Santiago Betancur Ortiz
+Prueba de como clonar un repositorio desde github a local.
